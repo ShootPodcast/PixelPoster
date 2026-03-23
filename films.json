@@ -8,5 +8,5 @@
 { "id": "7", "titre": "godzilla", "annee" : "1998","image_prefix": "film7" },
 { "id": "8", "titre": "godzilla", "annee" : "2014","image_prefix": "film8" },
 { "id": "9", "titre": "godzilla final wars", "annee" : "2004","image_prefix": "film9" },
-{ "id": "10", "titre": "godzilla 2", "annee" : "2019","image_prefix": "film10" },
+{ "id": "10", "titre": "godzilla 2", "annee" : "2019","image_prefix": "film10" }
 ]
