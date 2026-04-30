@@ -1,0 +1,22 @@
+[
+  { "id": "1", "titre": "black mask", "annee": "1996", "image_prefix": "fw_bm" },
+  { "id": "2", "titre": "detective dee : le mystere de la flamme fantome", "annee": "2010", "image_prefix": "fw_dd" },
+  { "id": "3", "titre": "double team", "annee": "1997", "image_prefix": "fw_dt" },
+  { "id": "4", "titre": "il etait une fois en chine", "annee": "1991", "image_prefix": "fw_efc" },
+  { "id": "5", "titre": "le festin chinois", "annee": "1995", "image_prefix": "fw_fc" },
+  { "id": "6", "titre": "green snake", "annee": "1993", "image_prefix": "fw_gs" },
+  { "id": "7", "titre": "histoires de fantomes chinois", "annee": "1987", "image_prefix": "fw_hfc" },
+  { "id": "8", "titre": "iron monkey", "annee": "1993", "image_prefix": "fw_im" },
+  { "id": "9", "titre": "new dragon inn", "annee": "1992", "image_prefix": "fw_ngi" },
+  { "id": "10", "titre": "piege a hong kong", "annee": "1998", "image_prefix": "fw_phk" },
+  { "id": "11", "titre": "peking opera blues", "annee": "1986", "image_prefix": "fw_pob" },
+  { "id": "12", "titre": "shangai blues", "annee": "1984", "image_prefix": "fw_sb" },
+  { "id": "13", "titre": "le syndicat du crime ii", "annee": "1987", "image_prefix": "fw_sc2" },
+  { "id": "14", "titre": "le syndicat du crime iii", "annee": "1989", "image_prefix": "fw_sc3" },
+  { "id": "15", "titre": "seven swords", "annee": "2005", "image_prefix": "fw_ss" },
+  { "id": "16", "titre": "swordsman", "annee": "1990", "image_prefix": "fw_sw" },
+  { "id": "17", "titre": "the killer", "annee": "1989", "image_prefix": "fw_tk" },
+  { "id": "18", "titre": "the lovers", "annee": "1994", "image_prefix": "fw_tl" },
+  { "id": "19", "titre": "the master", "annee": "1992", "image_prefix": "fw_tm" },
+  { "id": "20", "titre": "triangle", "annee": "2007", "image_prefix": "fw_tri" }
+]
