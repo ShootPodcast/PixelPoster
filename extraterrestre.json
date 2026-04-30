@@ -10,7 +10,7 @@
   { "id": "9", "titre": "john carter", "annee": "2012", "image_prefix": "et_jc" },
   { "id": "10", "titre": "la guerre des mondes", "annee": "2005", "image_prefix": "et_lgdm" },
   { "id": "11", "titre": "la soupe aux choux", "annee": "1981", "image_prefix": "et_lsac" },
-  { "id": "12", "titre": "mars attacks!", "annee": "1996", "image_prefix": "et_ma" },
+  { "id": "12", "titre": "mars attacks", "annee": "1996", "image_prefix": "et_ma" },
   { "id": "13", "titre": "paul", "annee": "2011", "image_prefix": "et_p" },
   { "id": "14", "titre": "premier contact", "annee": "2016", "image_prefix": "et_pc" },
   { "id": "15", "titre": "predator", "annee": "1987", "image_prefix": "et_pred" },
