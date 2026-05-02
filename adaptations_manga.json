@@ -6,7 +6,7 @@
   { "id": "5", "titre": "battle royale", "annee": "2000", "image_prefix": "am_br" },
   { "id": "6", "titre": "crying freeman", "annee": "1995", "image_prefix": "am_cf" },
   { "id": "7", "titre": "crows zero", "annee": "2007", "image_prefix": "am_cz" },
-  { "id": "8", "titre": "dragon ball evolution", "annee": "2009", "image_prefix": "am_dbe" },
+  { "id": "8", "titre": "dragonball evolution", "annee": "2009", "image_prefix": "am_dbe" },
   { "id": "9", "titre": "edge of tomorrow", "annee": "2014", "image_prefix": "am_eot" },
   { "id": "10", "titre": "gantz : au commencement", "annee": "2010", "image_prefix": "am_gan" },
   { "id": "11", "titre": "ghost in the shell", "annee": "1995", "image_prefix": "am_gits" },
