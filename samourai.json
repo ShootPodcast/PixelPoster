@@ -1,0 +1,22 @@
+[
+  { "id": "1", "titre": "13 assassins", "annee": "2010", "image_prefix": "sam_13a" },
+  { "id": "2", "titre": "47 ronin", "annee": "2013", "image_prefix": "sam_47r" },
+  { "id": "3", "titre": "afro samurai : resurrection", "annee": "2009", "image_prefix": "sam_asr" },
+  { "id": "4", "titre": "ghost dog : la voie du samourai", "annee": "1999", "image_prefix": "sam_gdvs" },
+  { "id": "5", "titre": "harakiri", "annee": "1962", "image_prefix": "sam_hk" },
+  { "id": "6", "titre": "hara-kiri : mort d'un samourai", "annee": "2011", "image_prefix": "sam_hkms" },
+  { "id": "7", "titre": "kubo et l'armure magique", "annee": "2016", "image_prefix": "sam_kam" },
+  { "id": "8", "titre": "kill bill : volume 1", "annee": "2003", "image_prefix": "sam_kb1" },
+  { "id": "9", "titre": "kenshin le vagabond", "annee": "2012", "image_prefix": "sam_klv" },
+  { "id": "10", "titre": "les 7 samourais", "annee": "1954", "image_prefix": "sam_l7s" },
+  { "id": "11", "titre": "le dernier samourai", "annee": "2003", "image_prefix": "sam_lds" },
+  { "id": "12", "titre": "le samourai", "annee": "1967", "image_prefix": "sam_ls" },
+  { "id": "13", "titre": "la legende musashi", "annee": "1954", "image_prefix": "sam_mm" },
+  { "id": "14", "titre": "sanjuro", "annee": "1962", "image_prefix": "sam_san" },
+  { "id": "15", "titre": "un seul bras les tua tous", "annee": "1967", "image_prefix": "sam_sbtt" },
+  { "id": "16", "titre": "soleil rouge", "annee": "1971", "image_prefix": "sam_sr" },
+  { "id": "17", "titre": "shogun's samurai", "annee": "1978", "image_prefix": "sam_ss" },
+  { "id": "18", "titre": "wolverine : le combat de l'immortel", "annee": "2013", "image_prefix": "sam_wci" },
+  { "id": "19", "titre": "yojimbo", "annee": "1961", "image_prefix": "sam_yoj" },
+  { "id": "20", "titre": "zatoichi", "annee": "2003", "image_prefix": "sam_zat" }
+]
