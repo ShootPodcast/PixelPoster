@@ -43,5 +43,10 @@
   { "date": "10/05/2026", "titre": "super mario bros. le film", "annee": "2023", "image_prefix": "p32" },
   { "date": "10/05/2026", "titre": "shaun of the dead", "annee": "2004", "image_prefix": "p33" },
   { "date": "10/05/2026", "titre": "avengers", "annee": "2012", "image_prefix": "p34" },
-  { "date": "10/05/2026", "titre": "baby driver", "annee": "2017", "image_prefix": "p35" }
+  { "date": "10/05/2026", "titre": "baby driver", "annee": "2017", "image_prefix": "p35" },
+  { "date": "11/05/2026", "titre": "challengers", "annee": "2024", "image_prefix": "p36" },
+  { "date": "11/05/2026", "titre": "dunkerque", "annee": "2017", "image_prefix": "p37" },
+  { "date": "11/05/2026", "titre": "pretty woman", "annee": "1990", "image_prefix": "p38" },
+  { "date": "11/05/2026", "titre": "2001 : l'odyssee de l'espace", "annee": "1968", "image_prefix": "p39" },
+  { "date": "11/05/2026", "titre": "very bad trip", "annee": "2009", "image_prefix": "p40" }
 ]
