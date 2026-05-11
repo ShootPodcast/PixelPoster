@@ -53,5 +53,10 @@
   { "date": "12/05/2026", "titre": "danny the dog", "annee": "2005", "image_prefix": "p42" },
   { "date": "12/05/2026", "titre": "albator - corsaire de l'espace", "annee": "2013", "image_prefix": "p43" },
   { "date": "12/05/2026", "titre": "ce qui nous lie", "annee": "2017", "image_prefix": "p44" },
-  { "date": "12/05/2026", "titre": "la famille indienne", "annee": "2010", "image_prefix": "p45" }
+  { "date": "12/05/2026", "titre": "la famille indienne", "annee": "2010", "image_prefix": "p45" },
+  { "date": "13/05/2026", "titre": "millennium mambo", "annee": "2001", "image_prefix": "p46" },
+  { "date": "13/05/2026", "titre": "les aventures de tintin : le secret de la licorne", "annee": "2011", "image_prefix": "p47" },
+  { "date": "13/05/2026", "titre": "aucun autre choix", "annee": "2025", "image_prefix": "p48" },
+  { "date": "13/05/2026", "titre": "the amazing spider-man", "annee": "2012", "image_prefix": "p49" },
+  { "date": "13/05/2026", "titre": "les enfants loups, ame & yuki", "annee": "2012", "image_prefix": "p50" }
 ]
