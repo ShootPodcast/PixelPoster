@@ -68,5 +68,10 @@
   { "date": "15/05/2026", "titre": "les 12 travaux d'asterix", "annee": "1976", "image_prefix": "p57" },
   { "date": "15/05/2026", "titre": "summer wars", "annee": "2009", "image_prefix": "p58" },
   { "date": "15/05/2026", "titre": "promare", "annee": "2019", "image_prefix": "p59" },
-  { "date": "15/05/2026", "titre": "le robot sauvage", "annee": "2024", "image_prefix": "p60" }
+  { "date": "15/05/2026", "titre": "le robot sauvage", "annee": "2024", "image_prefix": "p60" },
+  { "date": "16/05/2026", "titre": "virgin suicides", "annee": "2000", "image_prefix": "p61" },
+  { "date": "16/05/2026", "titre": "star wars episode 6 - le retour du jedi", "annee": "1983", "image_prefix": "p62" },
+  { "date": "16/05/2026", "titre": "the foreigner", "annee": "2024", "image_prefix": "p63" },
+  { "date": "16/05/2026", "titre": "slumdog millionaire", "annee": "2024", "image_prefix": "p64" },
+  { "date": "16/05/2026", "titre": "nikita", "annee": "2024", "image_prefix": "p65" }
 ]
