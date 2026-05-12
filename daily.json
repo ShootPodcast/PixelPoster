@@ -58,5 +58,10 @@
   { "date": "13/05/2026", "titre": "les aventures de tintin : le secret de la licorne", "annee": "2011", "image_prefix": "p47" },
   { "date": "13/05/2026", "titre": "aucun autre choix", "annee": "2025", "image_prefix": "p48" },
   { "date": "13/05/2026", "titre": "the amazing spider-man", "annee": "2012", "image_prefix": "p49" },
-  { "date": "13/05/2026", "titre": "les enfants loups, ame & yuki", "annee": "2012", "image_prefix": "p50" }
+  { "date": "13/05/2026", "titre": "les enfants loups, ame & yuki", "annee": "2012", "image_prefix": "p50" },
+  { "date": "14/05/2026", "titre": "le grand bain", "annee": "2018", "image_prefix": "p51" },
+  { "date": "14/05/2026", "titre": "la haine", "annee": "1995", "image_prefix": "p52" },
+  { "date": "14/05/2026", "titre": "reservoir dogs", "annee": "1992", "image_prefix": "p53" },
+  { "date": "14/05/2026", "titre": "alien : le 8eme passager", "annee": "1979", "image_prefix": "p54" },
+  { "date": "14/05/2026", "titre": "donnie darko", "annee": "2001", "image_prefix": "p55" }
 ]
