@@ -1,0 +1,22 @@
+[
+  { "id": "1", "titre": "les 101 dalmatiens", "annee": "1861", "image_prefix": "t20bof101d" },
+  { "id": "2", "titre": "autant en emporte le vent", "annee": "1939", "image_prefix": "t20bofaev" },
+  { "id": "3", "titre": "asterix & obelix : mission cleopatre", "annee": "2002", "image_prefix": "t20bofaomc" },
+  { "id": "4", "titre": "avatar", "annee": "2009", "image_prefix": "t20bofav1" },
+  { "id": "5", "titre": "avatar : la voie de l'eau", "annee": "2022", "image_prefix": "t20bofav2" },
+  { "id": "6", "titre": "bienvenue chez les ch'tis", "annee": "2008", "image_prefix": "t20bofbclc" },
+  { "id": "7", "titre": "ben-hur", "annee": "1959", "image_prefix": "t20bofbh" },
+  { "id": "8", "titre": "blanche-neige et les sept nains", "annee": "1938", "image_prefix": "t20bofbn" },
+  { "id": "9", "titre": "cendrillon", "annee": "1950", "image_prefix": "t20bofcend" },
+  { "id": "10", "titre": "les dix commandements", "annee": "1956", "image_prefix": "t20bofdc" },
+  { "id": "11", "titre": "il etait une fois dans l'ouest", "annee": "1968", "image_prefix": "t20bofefo" },
+  { "id": "12", "titre": "la grande vadrouille", "annee": "1966", "image_prefix": "t20bofgv" },
+  { "id": "13", "titre": "intouchables", "annee": "2011", "image_prefix": "t20bofint" },
+  { "id": "14", "titre": "les aristochats", "annee": "1970", "image_prefix": "t20bofla" },
+  { "id": "15", "titre": "le livre de la jungle", "annee": "1967", "image_prefix": "t20boflj" },
+  { "id": "16", "titre": "les visiteurs", "annee": "1993", "image_prefix": "t20boflv" },
+  { "id": "17", "titre": "le petit monde de don camillo", "annee": "1952", "image_prefix": "t20bofpmdc" },
+  { "id": "18", "titre": "le pont de la riviere kwai", "annee": "1957", "image_prefix": "t20bofprk" },
+  { "id": "19", "titre": "qu'est-ce qu'on a fait au bon dieu ?", "annee": "2014", "image_prefix": "t20bofqqafabd" },
+  { "id": "20", "titre": "titanic", "annee": "1997", "image_prefix": "t20boftit" }
+]
